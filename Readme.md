@@ -34,13 +34,12 @@ Want to contact us:
 
 ```
 koibd@koicoin.fun
+
+```
+
+Devs can contact to here:
+```
 admin@koicoin.fun
-```
-
-To run the tests, run:
-
-```
-./test.sh
 ```
 
 
