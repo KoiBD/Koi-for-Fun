@@ -3,6 +3,9 @@ Welcome to $KOI, where we merge the captivating beauty of Rare Japanese Koi fish
 
 Join the $KOI Community: Embrace the Spirit of Rare Japanese Fishes!
 
+<iframe src="https://player.vimeo.com/video/843416477" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+
 ### Homepage
 
 ```
