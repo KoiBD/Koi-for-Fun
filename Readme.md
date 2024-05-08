@@ -3,6 +3,7 @@ Welcome to $KOI, where we merge the captivating beauty of Rare Japanese Koi fish
 
 Join the $KOI Community: Embrace the Spirit of Rare Japanese Fishes!
 
+![Example Image](./Koi.png)
 
 ### Homepage
 
