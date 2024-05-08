@@ -6,7 +6,7 @@ Join the $KOI Community: Embrace the Spirit of Rare Japanese Fishes!
 ### Homepage
 
 ```
-(https://www.koicoin.fun/)
+https://www.koicoin.fun
 ```
 
 ### Twitter
