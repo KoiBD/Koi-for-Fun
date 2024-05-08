@@ -34,7 +34,6 @@ Want to contact us:
 
 ```
 koibd@koicoin.fun
-
 ```
 
 Devs can contact to here:
